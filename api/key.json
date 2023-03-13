@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "smart-derm-f9461",
+  "private_key_id": "0deca8af3c0cdab5aad78e371514c5a058c077b4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCXKeEeFX8hWE98\nOvOQ2EPV7Kto33Blew1E3AwL1JUZXYpG9Q25+xiefOkf8pt+5rP2dnRbZyM95o10\n8iWrhRmwRXYMFLm19xACwu2UgN3fRFGYDiEE1wfqd8NpZU1B3X1s8TWHL/2rOgcN\nwSv0N6AGGjQ+i8KZ5JxPeueGxI0EWlE1cWejWG5tc7P30LDB00cEFBrDcWdrVluB\nmI7FfdOmAilcTeyFOfBOlBg7vCIeWqfv3bJp8GoSSrfhzPZEadvb3YQpu03tzsW6\n6Fkg1SgBIxmgS/KIk8oz/JaIivsk0OcaTc71yRyg1LvD8ABskaDyQsAJkMPFl8hy\nCDNGZ/tRAgMBAAECggEAA2IT0HtNLtcd4kskd92rOP60wGJdztuf6qZdG6eslZZ/\nGYLzBXJN9QAZLJaercqmhPHWPVRz2LcP++nOd4YBUu1fDLqrBFxM7q7jp9LxhEVw\naQ2J5iSU4AXBqRp0DfER1U4Zs1aa4Anqrf9ghzT2fyR3fl3c41pXOD0pMN41xL7i\n62qb5fMTZlp6SNfO6Iv5bRq1rVDWSMRYugmcYWTiGWqAeAJpW2AxJx8tmAfS5qb6\n5mpf8hLbPBFWc4Qyerf164JPpLP9KFPv4MKerwsEiG/yfAgf+fbR7eKD11wH/tzr\n5vdtZm9cAxA8nXeiRXeMF0AKB2RfO7b3WpKrGOe1sQKBgQDH7vDojZIM3V4g4IPn\nCldTgC2OR6a3xkH0yMVbqVCQ02COU02uguKBrIZEJ1wenPS1SAAGbFtg9roJf2ON\niEJDzek9Wxy6uFd1whzzswQKIZ/xjeX0V9xUum2iiBkDuU03mTRDEQpM5mgQzwbB\nXnf5BmmfauLZNOZJrCZ/3VX/6QKBgQDBjctyuflI1bOi1Jx2k2tgBNvPMgEfrbJF\nDozgSsaBH5VzrOkjvCtxuEsNgk2ctUy35iu2pW7CLBb7pFEP6T0rJk4iw1a7/rBk\nqdx3gjPNo2Nnm0JBXvXfuzGJg2moX7Q/V1QKBP03lx/4zrtNQxp5kuZMvuYB8BX4\n2o9r1omnKQKBgDyDea8pilcSeXcB/WpkmuHPHfq+fRuKilQIoJOJv7TWBZeOZyi2\nvM/64/ik4SDy6K4lyLwo9891XgGZ6Qvhfgz/ueS0OxHY0b/2rMSmHkbivoJiLIO0\nRB/w/VYAU3HpGBIH8OWLts5nvn+36ZeFfFKHOljiBR8w/7K0xEJXP7xhAoGADN4l\naXItvYbfk3K5GDUCzXZlOqgjZPzCPk8SVJMEEW+NGwyiz0piRQQwkSxZhpKTECLQ\nQytKasRNnts0vG8QLv8z8KG18XekOH0GeDeCxCgZoriyte/fPsmOKItBCf2a2R8w\nKh5cy0ZTzNHJqABPEUgP4YhLeFOC0nGNWWkA68kCgYAoLKHCgOOoi5G5Vdx6q8uv\nyRcceIczvmBTbaA58wZ7m/RPtoH6cH9c8vo2O+gDksXXWIYkMJkc0c42u6H/q0Ot\nIl29FuexN3723HvV2FWlDTNxcD+xpMmSP5n1m9+eaQqQZzsakdLe+6U0ekg1byrt\nA/pl3syZB7PWtNjolbMJ8A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-vm3xl@smart-derm-f9461.iam.gserviceaccount.com",
+  "client_id": "104219781657244715165",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-vm3xl%40smart-derm-f9461.iam.gserviceaccount.com"
+}
